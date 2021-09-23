@@ -10,7 +10,3 @@ hearts- A remake of mastermind
 
 ## Contributors 
 Hana Shaikh
-
-...C++
-cout<<"test"<<endl;
-...
